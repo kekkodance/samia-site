@@ -1,0 +1,8 @@
+a {
+    color: blueviolet;
+    background-color: transparent;
+    text-decoration: none;
+}
+td {
+    background: var(--nc-bg-2);
+}
