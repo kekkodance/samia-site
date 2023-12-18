@@ -11,3 +11,17 @@ h2,
 h3 {
 	padding-bottom: 10px;
 }
+
+.wrap-bg {
+  overflow: hidden;
+  position: relative;
+}
+
+.bg {
+  opacity: 0.6;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
